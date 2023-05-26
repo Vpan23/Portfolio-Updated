@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Vpan23/Portfolio-Updated#readme",
   "dependencies": {
+    "eins-modal": "^2.2.2",
     "normalize.css": "^8.0.1"
   }
 }
